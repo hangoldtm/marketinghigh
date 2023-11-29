@@ -1,4 +1,4 @@
-###MARKETING HIGH
+#MARKETING HIGH
 
 도서 'MARKETING HIGH 데이터 기반 마케팅 프로젝트'의 Repository 입니다.
 
